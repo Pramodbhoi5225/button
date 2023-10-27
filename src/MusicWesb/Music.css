@@ -1,0 +1,15 @@
+section{
+    height: 55vh;
+    width: 100%;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+}
+nav{
+    display: flex;
+     gap: 30px;
+}
+.article{
+    
+}
